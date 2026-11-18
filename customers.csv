@@ -1,0 +1,301 @@
+customer_id,tenure_months,contract_type,internet_service,monthly_charges,support_tickets_last_90d,churned
+CUST-0001,18,One year,DSL,48,0,0
+CUST-0002,35,Two year,None,61,0,0
+CUST-0003,52,Month-to-month,Fiber,74,0,0
+CUST-0004,69,One year,DSL,87,0,0
+CUST-0005,14,Two year,None,100,1,0
+CUST-0006,31,Month-to-month,Fiber,113,0,0
+CUST-0007,48,One year,DSL,36,0,0
+CUST-0008,65,Two year,None,49,0,0
+CUST-0009,10,Month-to-month,Fiber,62,0,1
+CUST-0010,27,One year,DSL,75,1,0
+CUST-0011,44,Two year,None,88,0,0
+CUST-0012,61,Month-to-month,Fiber,101,0,1
+CUST-0013,6,One year,DSL,114,0,0
+CUST-0014,23,Two year,None,37,0,0
+CUST-0015,40,Month-to-month,Fiber,50,1,1
+CUST-0016,57,One year,DSL,63,0,0
+CUST-0017,2,Two year,None,76,0,0
+CUST-0018,19,Month-to-month,Fiber,89,0,1
+CUST-0019,36,One year,DSL,102,0,0
+CUST-0020,53,Two year,None,115,1,1
+CUST-0021,70,Month-to-month,Fiber,38,0,0
+CUST-0022,15,One year,DSL,51,0,0
+CUST-0023,32,Two year,None,64,0,0
+CUST-0024,49,Month-to-month,Fiber,77,0,0
+CUST-0025,66,One year,DSL,90,1,0
+CUST-0026,11,Two year,None,103,0,0
+CUST-0027,28,Month-to-month,Fiber,116,0,1
+CUST-0028,45,One year,DSL,39,0,0
+CUST-0029,62,Two year,None,52,0,0
+CUST-0030,7,Month-to-month,Fiber,65,1,1
+CUST-0031,24,One year,DSL,78,0,0
+CUST-0032,41,Two year,None,91,0,0
+CUST-0033,58,Month-to-month,Fiber,104,0,0
+CUST-0034,3,One year,DSL,117,0,0
+CUST-0035,20,Two year,None,40,1,0
+CUST-0036,37,Month-to-month,Fiber,53,0,0
+CUST-0037,54,One year,DSL,66,0,0
+CUST-0038,71,Two year,None,79,0,0
+CUST-0039,16,Month-to-month,Fiber,92,0,1
+CUST-0040,33,One year,DSL,105,1,1
+CUST-0041,50,Two year,None,118,0,0
+CUST-0042,67,Month-to-month,Fiber,41,0,0
+CUST-0043,12,One year,DSL,54,0,0
+CUST-0044,29,Two year,None,67,0,0
+CUST-0045,46,Month-to-month,Fiber,80,1,1
+CUST-0046,63,One year,DSL,93,0,0
+CUST-0047,8,Two year,None,106,0,0
+CUST-0048,25,Month-to-month,Fiber,119,0,1
+CUST-0049,42,One year,DSL,42,0,0
+CUST-0050,59,Two year,None,55,1,0
+CUST-0051,4,Month-to-month,Fiber,68,0,1
+CUST-0052,21,One year,DSL,81,0,0
+CUST-0053,38,Two year,None,94,0,0
+CUST-0054,55,Month-to-month,Fiber,107,0,0
+CUST-0055,72,One year,DSL,120,1,0
+CUST-0056,17,Two year,None,43,0,0
+CUST-0057,34,Month-to-month,Fiber,56,0,0
+CUST-0058,51,One year,DSL,69,0,0
+CUST-0059,68,Two year,None,82,0,0
+CUST-0060,13,Month-to-month,Fiber,95,1,1
+CUST-0061,30,One year,DSL,108,0,0
+CUST-0062,47,Two year,None,121,0,0
+CUST-0063,64,Month-to-month,Fiber,44,0,0
+CUST-0064,9,One year,DSL,57,0,0
+CUST-0065,26,Two year,None,70,1,0
+CUST-0066,43,Month-to-month,Fiber,83,0,0
+CUST-0067,60,One year,DSL,96,0,0
+CUST-0068,5,Two year,None,109,0,1
+CUST-0069,22,Month-to-month,Fiber,122,0,1
+CUST-0070,39,One year,DSL,45,1,0
+CUST-0071,56,Two year,None,58,0,0
+CUST-0072,1,Month-to-month,Fiber,71,0,1
+CUST-0073,18,One year,DSL,84,0,0
+CUST-0074,35,Two year,None,97,0,0
+CUST-0075,52,Month-to-month,Fiber,110,1,1
+CUST-0076,69,One year,DSL,123,0,1
+CUST-0077,14,Two year,None,46,0,0
+CUST-0078,31,Month-to-month,Fiber,59,0,0
+CUST-0079,48,One year,DSL,72,0,0
+CUST-0080,65,Two year,None,85,1,0
+CUST-0081,10,Month-to-month,Fiber,98,0,1
+CUST-0082,27,One year,DSL,111,0,0
+CUST-0083,44,Two year,None,124,0,0
+CUST-0084,61,Month-to-month,Fiber,47,0,0
+CUST-0085,6,One year,DSL,60,1,0
+CUST-0086,23,Two year,None,73,0,0
+CUST-0087,40,Month-to-month,Fiber,86,0,0
+CUST-0088,57,One year,DSL,99,0,1
+CUST-0089,2,Two year,None,112,0,0
+CUST-0090,19,Month-to-month,Fiber,35,1,1
+CUST-0091,36,One year,DSL,48,0,0
+CUST-0092,53,Two year,None,61,0,0
+CUST-0093,70,Month-to-month,Fiber,74,0,0
+CUST-0094,15,One year,DSL,87,0,0
+CUST-0095,32,Two year,None,100,1,0
+CUST-0096,49,Month-to-month,Fiber,113,0,1
+CUST-0097,66,One year,DSL,36,0,0
+CUST-0098,11,Two year,None,49,0,0
+CUST-0099,28,Month-to-month,Fiber,62,0,1
+CUST-0100,45,One year,DSL,75,1,0
+CUST-0101,62,Two year,None,88,0,0
+CUST-0102,7,Month-to-month,Fiber,101,0,1
+CUST-0103,24,One year,DSL,114,0,0
+CUST-0104,41,Two year,None,37,0,0
+CUST-0105,58,Month-to-month,Fiber,50,1,1
+CUST-0106,3,One year,DSL,63,0,0
+CUST-0107,20,Two year,None,76,0,0
+CUST-0108,37,Month-to-month,Fiber,89,0,0
+CUST-0109,54,One year,DSL,102,0,0
+CUST-0110,71,Two year,None,115,1,0
+CUST-0111,16,Month-to-month,Fiber,38,0,1
+CUST-0112,33,One year,DSL,51,0,0
+CUST-0113,50,Two year,None,64,0,0
+CUST-0114,67,Month-to-month,Fiber,77,0,0
+CUST-0115,12,One year,DSL,90,1,0
+CUST-0116,29,Two year,None,103,0,1
+CUST-0117,46,Month-to-month,Fiber,116,0,0
+CUST-0118,63,One year,DSL,39,0,0
+CUST-0119,8,Two year,None,52,0,0
+CUST-0120,25,Month-to-month,Fiber,65,1,1
+CUST-0121,42,One year,DSL,78,0,0
+CUST-0122,59,Two year,None,91,0,0
+CUST-0123,4,Month-to-month,Fiber,104,0,1
+CUST-0124,21,One year,DSL,117,0,1
+CUST-0125,38,Two year,None,40,1,0
+CUST-0126,55,Month-to-month,Fiber,53,0,0
+CUST-0127,72,One year,DSL,66,0,0
+CUST-0128,17,Two year,None,79,0,0
+CUST-0129,34,Month-to-month,Fiber,92,0,0
+CUST-0130,51,One year,DSL,105,1,0
+CUST-0131,68,Two year,None,118,0,0
+CUST-0132,13,Month-to-month,Fiber,41,0,1
+CUST-0133,30,One year,DSL,54,0,0
+CUST-0134,47,Two year,None,67,0,0
+CUST-0135,64,Month-to-month,Fiber,80,1,1
+CUST-0136,9,One year,DSL,93,0,0
+CUST-0137,26,Two year,None,106,0,0
+CUST-0138,43,Month-to-month,Fiber,119,0,0
+CUST-0139,60,One year,DSL,42,0,0
+CUST-0140,5,Two year,None,55,1,0
+CUST-0141,22,Month-to-month,Fiber,68,0,1
+CUST-0142,39,One year,DSL,81,0,0
+CUST-0143,56,Two year,None,94,0,0
+CUST-0144,1,Month-to-month,Fiber,107,0,1
+CUST-0145,18,One year,DSL,120,1,0
+CUST-0146,35,Two year,None,43,0,0
+CUST-0147,52,Month-to-month,Fiber,56,0,0
+CUST-0148,69,One year,DSL,69,0,0
+CUST-0149,14,Two year,None,82,0,0
+CUST-0150,31,Month-to-month,Fiber,95,1,1
+CUST-0151,48,One year,DSL,108,0,0
+CUST-0152,65,Two year,None,121,0,1
+CUST-0153,10,Month-to-month,Fiber,44,0,1
+CUST-0154,27,One year,DSL,57,0,0
+CUST-0155,44,Two year,None,70,1,0
+CUST-0156,61,Month-to-month,Fiber,83,0,0
+CUST-0157,6,One year,DSL,96,0,0
+CUST-0158,23,Two year,None,109,0,0
+CUST-0159,40,Month-to-month,Fiber,122,0,0
+CUST-0160,57,One year,DSL,45,1,0
+CUST-0161,2,Two year,None,58,0,0
+CUST-0162,19,Month-to-month,Fiber,71,0,1
+CUST-0163,36,One year,DSL,84,0,0
+CUST-0164,53,Two year,None,97,0,1
+CUST-0165,70,Month-to-month,Fiber,110,1,1
+CUST-0166,15,One year,DSL,123,0,0
+CUST-0167,32,Two year,None,46,0,0
+CUST-0168,49,Month-to-month,Fiber,59,0,0
+CUST-0169,66,One year,DSL,72,0,0
+CUST-0170,11,Two year,None,85,1,0
+CUST-0171,28,Month-to-month,Fiber,98,0,1
+CUST-0172,45,One year,DSL,111,0,1
+CUST-0173,62,Two year,None,124,0,0
+CUST-0174,7,Month-to-month,Fiber,47,0,1
+CUST-0175,24,One year,DSL,60,1,0
+CUST-0176,41,Two year,None,73,0,0
+CUST-0177,58,Month-to-month,Fiber,86,0,0
+CUST-0178,3,One year,DSL,99,0,0
+CUST-0179,20,Two year,None,112,0,0
+CUST-0180,37,Month-to-month,Fiber,35,1,1
+CUST-0181,54,One year,DSL,48,0,0
+CUST-0182,71,Two year,None,61,0,0
+CUST-0183,16,Month-to-month,Fiber,74,0,1
+CUST-0184,33,One year,DSL,87,0,0
+CUST-0185,50,Two year,None,100,1,0
+CUST-0186,67,Month-to-month,Fiber,113,0,0
+CUST-0187,12,One year,DSL,36,0,0
+CUST-0188,29,Two year,None,49,0,0
+CUST-0189,46,Month-to-month,Fiber,62,0,0
+CUST-0190,63,One year,DSL,75,1,0
+CUST-0191,8,Two year,None,88,0,0
+CUST-0192,25,Month-to-month,Fiber,101,0,1
+CUST-0193,42,One year,DSL,114,0,0
+CUST-0194,59,Two year,None,37,0,0
+CUST-0195,4,Month-to-month,Fiber,50,1,1
+CUST-0196,21,One year,DSL,63,0,0
+CUST-0197,38,Two year,None,76,0,0
+CUST-0198,55,Month-to-month,Fiber,89,0,0
+CUST-0199,72,One year,DSL,102,0,0
+CUST-0200,17,Two year,None,115,1,1
+CUST-0201,34,Month-to-month,Fiber,38,0,0
+CUST-0202,51,One year,DSL,51,0,0
+CUST-0203,68,Two year,None,64,0,0
+CUST-0204,13,Month-to-month,Fiber,77,0,1
+CUST-0205,30,One year,DSL,90,1,0
+CUST-0206,47,Two year,None,103,0,0
+CUST-0207,64,Month-to-month,Fiber,116,0,0
+CUST-0208,9,One year,DSL,39,0,0
+CUST-0209,26,Two year,None,52,0,0
+CUST-0210,43,Month-to-month,Fiber,65,1,1
+CUST-0211,60,One year,DSL,78,0,0
+CUST-0212,5,Two year,None,91,0,0
+CUST-0213,22,Month-to-month,Fiber,104,0,1
+CUST-0214,39,One year,DSL,117,0,0
+CUST-0215,56,Two year,None,40,1,0
+CUST-0216,1,Month-to-month,Fiber,53,0,1
+CUST-0217,18,One year,DSL,66,0,0
+CUST-0218,35,Two year,None,79,0,0
+CUST-0219,52,Month-to-month,Fiber,92,0,0
+CUST-0220,69,One year,DSL,105,1,1
+CUST-0221,14,Two year,None,118,0,0
+CUST-0222,31,Month-to-month,Fiber,41,0,0
+CUST-0223,48,One year,DSL,54,0,0
+CUST-0224,65,Two year,None,67,0,0
+CUST-0225,10,Month-to-month,Fiber,80,1,1
+CUST-0226,27,One year,DSL,93,0,0
+CUST-0227,44,Two year,None,106,0,0
+CUST-0228,61,Month-to-month,Fiber,119,0,1
+CUST-0229,6,One year,DSL,42,0,0
+CUST-0230,23,Two year,None,55,1,0
+CUST-0231,40,Month-to-month,Fiber,68,0,0
+CUST-0232,57,One year,DSL,81,0,0
+CUST-0233,2,Two year,None,94,0,0
+CUST-0234,19,Month-to-month,Fiber,107,0,1
+CUST-0235,36,One year,DSL,120,1,0
+CUST-0236,53,Two year,None,43,0,0
+CUST-0237,70,Month-to-month,Fiber,56,0,0
+CUST-0238,15,One year,DSL,69,0,0
+CUST-0239,32,Two year,None,82,0,0
+CUST-0240,49,Month-to-month,Fiber,95,1,1
+CUST-0241,66,One year,DSL,108,0,0
+CUST-0242,11,Two year,None,121,0,0
+CUST-0243,28,Month-to-month,Fiber,44,0,1
+CUST-0244,45,One year,DSL,57,0,0
+CUST-0245,62,Two year,None,70,1,0
+CUST-0246,7,Month-to-month,Fiber,83,0,1
+CUST-0247,24,One year,DSL,96,0,0
+CUST-0248,41,Two year,None,109,0,1
+CUST-0249,58,Month-to-month,Fiber,122,0,0
+CUST-0250,3,One year,DSL,45,1,0
+CUST-0251,20,Two year,None,58,0,0
+CUST-0252,37,Month-to-month,Fiber,71,0,0
+CUST-0253,54,One year,DSL,84,0,0
+CUST-0254,71,Two year,None,97,0,0
+CUST-0255,16,Month-to-month,Fiber,110,1,1
+CUST-0256,33,One year,DSL,123,0,1
+CUST-0257,50,Two year,None,46,0,0
+CUST-0258,67,Month-to-month,Fiber,59,0,0
+CUST-0259,12,One year,DSL,72,0,0
+CUST-0260,29,Two year,None,85,1,0
+CUST-0261,46,Month-to-month,Fiber,98,0,0
+CUST-0262,63,One year,DSL,111,0,0
+CUST-0263,8,Two year,None,124,0,0
+CUST-0264,25,Month-to-month,Fiber,47,0,1
+CUST-0265,42,One year,DSL,60,1,0
+CUST-0266,59,Two year,None,73,0,0
+CUST-0267,4,Month-to-month,Fiber,86,0,1
+CUST-0268,21,One year,DSL,99,0,1
+CUST-0269,38,Two year,None,112,0,0
+CUST-0270,55,Month-to-month,Fiber,35,1,1
+CUST-0271,72,One year,DSL,48,0,0
+CUST-0272,17,Two year,None,61,0,0
+CUST-0273,34,Month-to-month,Fiber,74,0,0
+CUST-0274,51,One year,DSL,87,0,0
+CUST-0275,68,Two year,None,100,1,0
+CUST-0276,13,Month-to-month,Fiber,113,0,1
+CUST-0277,30,One year,DSL,36,0,0
+CUST-0278,47,Two year,None,49,0,0
+CUST-0279,64,Month-to-month,Fiber,62,0,0
+CUST-0280,9,One year,DSL,75,1,0
+CUST-0281,26,Two year,None,88,0,0
+CUST-0282,43,Month-to-month,Fiber,101,0,0
+CUST-0283,60,One year,DSL,114,0,0
+CUST-0284,5,Two year,None,37,0,0
+CUST-0285,22,Month-to-month,Fiber,50,1,1
+CUST-0286,39,One year,DSL,63,0,0
+CUST-0287,56,Two year,None,76,0,0
+CUST-0288,1,Month-to-month,Fiber,89,0,1
+CUST-0289,18,One year,DSL,102,0,0
+CUST-0290,35,Two year,None,115,1,0
+CUST-0291,52,Month-to-month,Fiber,38,0,0
+CUST-0292,69,One year,DSL,51,0,0
+CUST-0293,14,Two year,None,64,0,0
+CUST-0294,31,Month-to-month,Fiber,77,0,0
+CUST-0295,48,One year,DSL,90,1,0
+CUST-0296,65,Two year,None,103,0,1
+CUST-0297,10,Month-to-month,Fiber,116,0,1
+CUST-0298,27,One year,DSL,39,0,0
+CUST-0299,44,Two year,None,52,0,0
+CUST-0300,61,Month-to-month,Fiber,65,1,1

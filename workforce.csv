@@ -1,0 +1,121 @@
+employee_id,department,location,hire_date,exit_date,annual_salary,career_level,employment_type
+EMP-0001,Operations,Winnipeg,2019-02-23,,53400,Mid,Full-time
+EMP-0002,People,Remote,2019-04-17,,54800,Senior,Full-time
+EMP-0003,Finance,Toronto,2019-06-09,,56100,Entry,Full-time
+EMP-0004,Technology,Winnipeg,2019-08-01,,57500,Mid,Full-time
+EMP-0005,Customer Support,Remote,2019-09-23,,58900,Senior,Full-time
+EMP-0006,Operations,Toronto,2019-11-15,,60300,Entry,Full-time
+EMP-0007,People,Winnipeg,2020-01-07,,61700,Mid,Full-time
+EMP-0008,Finance,Remote,2020-02-29,,63000,Senior,Full-time
+EMP-0009,Technology,Toronto,2020-04-22,,64400,Entry,Part-time
+EMP-0010,Customer Support,Winnipeg,2020-06-14,,65800,Mid,Full-time
+EMP-0011,Operations,Remote,2020-08-06,2024-04-21,67200,Senior,Full-time
+EMP-0012,People,Toronto,2020-09-28,,68500,Entry,Full-time
+EMP-0013,Finance,Winnipeg,2020-11-20,,69900,Mid,Full-time
+EMP-0014,Technology,Remote,2021-01-12,,71300,Senior,Full-time
+EMP-0015,Customer Support,Toronto,2021-03-06,,72700,Entry,Full-time
+EMP-0016,Operations,Winnipeg,2021-04-28,,74100,Mid,Full-time
+EMP-0017,People,Remote,2021-06-20,,75400,Senior,Full-time
+EMP-0018,Finance,Toronto,2021-08-12,,76800,Entry,Part-time
+EMP-0019,Technology,Winnipeg,2021-10-04,,78200,Mid,Full-time
+EMP-0020,Customer Support,Remote,2021-11-26,,79600,Senior,Full-time
+EMP-0021,Operations,Toronto,2022-01-18,,81000,Entry,Full-time
+EMP-0022,People,Winnipeg,2022-03-12,2024-11-11,82300,Mid,Full-time
+EMP-0023,Finance,Remote,2022-05-04,,83700,Senior,Full-time
+EMP-0024,Technology,Toronto,2022-06-26,,85100,Entry,Full-time
+EMP-0025,Customer Support,Winnipeg,2022-08-18,,86500,Mid,Full-time
+EMP-0026,Operations,Remote,2022-10-10,,87900,Senior,Full-time
+EMP-0027,People,Toronto,2022-12-02,,89200,Entry,Part-time
+EMP-0028,Finance,Winnipeg,2023-01-24,,90600,Mid,Full-time
+EMP-0029,Technology,Remote,2023-03-18,,92000,Senior,Full-time
+EMP-0030,Customer Support,Toronto,2023-05-10,,93400,Entry,Full-time
+EMP-0031,Operations,Winnipeg,2023-07-02,,94700,Mid,Full-time
+EMP-0032,People,Remote,2023-08-24,,96100,Senior,Full-time
+EMP-0033,Finance,Toronto,2023-10-16,2025-06-04,97500,Entry,Full-time
+EMP-0034,Technology,Winnipeg,2023-12-08,,98900,Mid,Full-time
+EMP-0035,Customer Support,Remote,2024-01-30,2025-07-11,100300,Senior,Full-time
+EMP-0036,Operations,Toronto,2024-03-23,,101600,Entry,Part-time
+EMP-0037,People,Winnipeg,2024-05-15,,103000,Mid,Full-time
+EMP-0038,Finance,Remote,2024-07-07,,104400,Senior,Full-time
+EMP-0039,Technology,Toronto,2024-08-29,,105800,Entry,Full-time
+EMP-0040,Customer Support,Winnipeg,2024-10-21,,107200,Mid,Full-time
+EMP-0041,Operations,Remote,2024-12-13,,108500,Senior,Full-time
+EMP-0042,People,Toronto,2025-02-04,,109900,Entry,Full-time
+EMP-0043,Finance,Winnipeg,2025-03-29,,53300,Mid,Full-time
+EMP-0044,Technology,Remote,2025-05-21,2025-12-25,54700,Senior,Full-time
+EMP-0045,Customer Support,Toronto,2025-07-13,,56100,Entry,Part-time
+EMP-0046,Operations,Winnipeg,2019-02-08,,57400,Mid,Full-time
+EMP-0047,People,Remote,2019-04-02,,58800,Senior,Full-time
+EMP-0048,Finance,Toronto,2019-05-25,,60200,Entry,Full-time
+EMP-0049,Technology,Winnipeg,2019-07-17,,61600,Mid,Full-time
+EMP-0050,Customer Support,Remote,2019-09-08,,63000,Senior,Full-time
+EMP-0051,Operations,Toronto,2019-10-31,,64300,Entry,Full-time
+EMP-0052,People,Winnipeg,2019-12-23,,65700,Mid,Full-time
+EMP-0053,Finance,Remote,2020-02-14,,67100,Senior,Full-time
+EMP-0054,Technology,Toronto,2020-04-07,,68500,Entry,Part-time
+EMP-0055,Customer Support,Winnipeg,2020-05-30,2024-03-28,69800,Mid,Full-time
+EMP-0056,Operations,Remote,2020-07-22,,71200,Senior,Full-time
+EMP-0057,People,Toronto,2020-09-13,,72600,Entry,Full-time
+EMP-0058,Finance,Winnipeg,2020-11-05,,74000,Mid,Full-time
+EMP-0059,Technology,Remote,2020-12-28,,75400,Senior,Full-time
+EMP-0060,Customer Support,Toronto,2021-02-19,,76700,Entry,Full-time
+EMP-0061,Operations,Winnipeg,2021-04-13,,78100,Mid,Full-time
+EMP-0062,People,Remote,2021-06-05,,79500,Senior,Full-time
+EMP-0063,Finance,Toronto,2021-07-28,,80900,Entry,Part-time
+EMP-0064,Technology,Winnipeg,2021-09-19,,82300,Mid,Full-time
+EMP-0065,Customer Support,Remote,2021-11-11,,83600,Senior,Full-time
+EMP-0066,Operations,Toronto,2022-01-03,2024-10-19,85000,Entry,Full-time
+EMP-0067,People,Winnipeg,2022-02-25,,86400,Mid,Full-time
+EMP-0068,Finance,Remote,2022-04-19,,87800,Senior,Full-time
+EMP-0069,Technology,Toronto,2022-06-11,,89200,Entry,Full-time
+EMP-0070,Customer Support,Winnipeg,2022-08-03,2025-01-01,90500,Mid,Full-time
+EMP-0071,Operations,Remote,2022-09-25,,91900,Senior,Full-time
+EMP-0072,People,Toronto,2022-11-17,,93300,Entry,Part-time
+EMP-0073,Finance,Winnipeg,2023-01-09,,94700,Mid,Full-time
+EMP-0074,Technology,Remote,2023-03-03,,96000,Senior,Full-time
+EMP-0075,Customer Support,Toronto,2023-04-25,,97400,Entry,Full-time
+EMP-0076,Operations,Winnipeg,2023-06-17,,98800,Mid,Full-time
+EMP-0077,People,Remote,2023-08-09,2025-05-11,100200,Senior,Full-time
+EMP-0078,Finance,Toronto,2023-10-01,,101600,Entry,Full-time
+EMP-0079,Technology,Winnipeg,2023-11-23,,102900,Mid,Full-time
+EMP-0080,Customer Support,Remote,2024-01-15,,104300,Senior,Full-time
+EMP-0081,Operations,Toronto,2024-03-08,,105700,Entry,Part-time
+EMP-0082,People,Winnipeg,2024-04-30,,107100,Mid,Full-time
+EMP-0083,Finance,Remote,2024-06-22,,108500,Senior,Full-time
+EMP-0084,Technology,Toronto,2024-08-14,,109800,Entry,Full-time
+EMP-0085,Customer Support,Winnipeg,2024-10-06,,53200,Mid,Full-time
+EMP-0086,Operations,Remote,2024-11-28,,54600,Senior,Full-time
+EMP-0087,People,Toronto,2025-01-20,,56000,Entry,Full-time
+EMP-0088,Finance,Winnipeg,2025-03-14,2025-12-01,57400,Mid,Full-time
+EMP-0089,Technology,Remote,2025-05-06,,58700,Senior,Full-time
+EMP-0090,Customer Support,Toronto,2025-06-28,,60100,Entry,Part-time
+EMP-0091,Operations,Winnipeg,2019-01-24,,61500,Mid,Full-time
+EMP-0092,People,Remote,2019-03-18,,62900,Senior,Full-time
+EMP-0093,Finance,Toronto,2019-05-10,,64200,Entry,Full-time
+EMP-0094,Technology,Winnipeg,2019-07-02,,65600,Mid,Full-time
+EMP-0095,Customer Support,Remote,2019-08-24,,67000,Senior,Full-time
+EMP-0096,Operations,Toronto,2019-10-16,,68400,Entry,Full-time
+EMP-0097,People,Winnipeg,2019-12-08,,69800,Mid,Full-time
+EMP-0098,Finance,Remote,2020-01-30,,71100,Senior,Full-time
+EMP-0099,Technology,Toronto,2020-03-23,2024-03-04,72500,Entry,Part-time
+EMP-0100,Customer Support,Winnipeg,2020-05-15,,73900,Mid,Full-time
+EMP-0101,Operations,Remote,2020-07-07,,75300,Senior,Full-time
+EMP-0102,People,Toronto,2020-08-29,,76700,Entry,Full-time
+EMP-0103,Finance,Winnipeg,2020-10-21,,78000,Mid,Full-time
+EMP-0104,Technology,Remote,2020-12-13,,79400,Senior,Full-time
+EMP-0105,Customer Support,Toronto,2021-02-04,2024-06-24,80800,Entry,Full-time
+EMP-0106,Operations,Winnipeg,2021-03-29,,82200,Mid,Full-time
+EMP-0107,People,Remote,2021-05-21,,83600,Senior,Full-time
+EMP-0108,Finance,Toronto,2021-07-13,,84900,Entry,Part-time
+EMP-0109,Technology,Winnipeg,2021-09-04,,86300,Mid,Full-time
+EMP-0110,Customer Support,Remote,2021-10-27,2024-09-25,87700,Senior,Full-time
+EMP-0111,Operations,Toronto,2021-12-19,,89100,Entry,Full-time
+EMP-0112,People,Winnipeg,2022-02-10,,90400,Mid,Full-time
+EMP-0113,Finance,Remote,2022-04-04,,91800,Senior,Full-time
+EMP-0114,Technology,Toronto,2022-05-27,,93200,Entry,Full-time
+EMP-0115,Customer Support,Winnipeg,2022-07-19,,94600,Mid,Full-time
+EMP-0116,Operations,Remote,2022-09-10,,96000,Senior,Full-time
+EMP-0117,People,Toronto,2022-11-02,,97300,Entry,Part-time
+EMP-0118,Finance,Winnipeg,2022-12-25,,98700,Mid,Full-time
+EMP-0119,Technology,Remote,2023-02-16,,100100,Senior,Full-time
+EMP-0120,Customer Support,Toronto,2023-04-10,,101500,Entry,Full-time
